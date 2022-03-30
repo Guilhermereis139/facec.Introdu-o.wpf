@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "facec.Introdução.wpf", "facec.Introdução.wpf\facec.Introdução.wpf.csproj", "{F197C93D-8EBF-43FA-A82A-CF8A1C3821E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F197C93D-8EBF-43FA-A82A-CF8A1C3821E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F197C93D-8EBF-43FA-A82A-CF8A1C3821E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F197C93D-8EBF-43FA-A82A-CF8A1C3821E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F197C93D-8EBF-43FA-A82A-CF8A1C3821E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD0EADB1-7892-4AE6-A4EC-195BC83B9E59}
+	EndGlobalSection
+EndGlobal
